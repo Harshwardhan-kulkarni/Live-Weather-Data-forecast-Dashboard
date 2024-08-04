@@ -33,5 +33,9 @@ To demonstrate the integration of data visualization and interactive web element
 
 **Preview**
 
+Temperature-
+![image](https://github.com/user-attachments/assets/101a0b99-5670-4d87-904d-fc58f42e5ff4)
+
+Sky-
 ![image](https://github.com/user-attachments/assets/a2766f3a-9ac2-499d-b38e-311d4a47aea7)
 
