@@ -29,3 +29,9 @@ Both the temperature and sky condition graphs are interactive and responsive to 
 **Objective:**
 
 To demonstrate the integration of data visualization and interactive web elements, showcasing the capabilities of Streamlit combined with Python plotting libraries.
+
+
+**Preview**
+
+![image](https://github.com/user-attachments/assets/a2766f3a-9ac2-499d-b38e-311d4a47aea7)
+
