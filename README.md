@@ -1,7 +1,7 @@
 ## Live-Weather-Data-forecast-Dashboard
 This is an interactive data visualization web app that provides weather forecasts.
 
-***Project Overview: Data Visualization Web App***
+## ***Project Overview: Data Visualization Web App***
 
 **Purpose:**
 To create an interactive data visualization web app that provides weather forecasts.
